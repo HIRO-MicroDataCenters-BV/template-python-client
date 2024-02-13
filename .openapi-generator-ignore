@@ -1,0 +1,10 @@
+.openapi-generator-ignore
+.gitlab-ci.yml
+.travis.yml
+git_push.sh
+requirements.txt
+setup.py
+test-requirements.txt
+tox.ini
+LICENSE
+generator
